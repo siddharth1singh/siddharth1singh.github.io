@@ -1,0 +1,80 @@
+/* <style> */
+    .head {
+        color: rgba(217, 223, 228, 0.897);
+        background-color: seagreen;
+        height: 300px;
+        width: auto;
+        margin: 5px;
+        padding: 10px;
+    }
+
+    .head h1 {
+        text-align: center;
+    }
+
+    .Navigation {
+        display: flex;
+        padding: 15px;
+        margin: 1px;
+        overflow: hidden;
+        border: 2px solid saddlebrown;
+    }
+
+    .Navigation a {
+        padding: 5px;
+        margin: 0px;
+        text-decoration: none;
+        color: rgb(99, 91, 59);
+    }
+
+    .Navigation a:hover {
+        color: sandybrown;
+    }
+
+    .active {
+        color: maroon;
+        background-color: yellowgreen;
+
+    }
+
+
+    #para1 {
+        font-size: 20px;
+        color: tomato;
+    }
+
+    .mainpara {
+
+        color: gold;
+    }
+
+    .container {
+        background-color: rgba(207, 124, 0, 0.158);
+        color: rgb(207, 100, 23);
+        display: grid;
+        grid-template-columns: 0.2fr 0.2fr;
+        grid-row-gap: 0px;
+
+    }
+
+    /* .contact{
+        display: box;
+    }  */
+    .ext {
+        margin: 1px;
+    }
+
+    .ext a {
+        display: block;
+        text-decoration: none;
+        color: rgb(99, 91, 59);
+        margin: 1px;
+        padding: 1px;
+    }
+    
+
+    /* 
+    .ext:hover {
+        color: sandybrown;
+    } */
+/* </style> */
